@@ -1,0 +1,26 @@
+{
+  "name": "cat_card_application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anush93/cat_card_application.git"
+  },
+  "author": "Anusha Wickramarachchi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anush93/cat_card_application/issues"
+  },
+  "homepage": "https://github.com/Anush93/cat_card_application#readme",
+  "dependencies": {
+    "@mapbox/blend": "^2.0.1",
+    "axios": "^0.21.1",
+    "fs": "0.0.1-security",
+    "minimist": "^1.2.5",
+    "path": "^0.12.7"
+  }
+}
